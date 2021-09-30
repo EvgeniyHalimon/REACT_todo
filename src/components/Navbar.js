@@ -5,7 +5,7 @@ export const Navbar = () => {
     return(
         <nav className="navbar navbar-dark navbar-expand-lg bg-primary">
         <div className="navbar-brand p-1">
-            Note App
+            Bizzare Todo
         </div> 
         <ul className="navbar-nav p-1">
             <li className="nav-item">
